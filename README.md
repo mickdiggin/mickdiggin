@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### HELLO THERE!
+Welcome to my profile on GitHub.
+I majoring in computer science at Fort Hays State University, and am interested in learning all aspects of coding. Most of my experience thus far has been with C++, JavaScript, Java, and Python. 
 <!--
 **mickdiggin/mickdiggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
